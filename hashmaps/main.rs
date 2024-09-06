@@ -9,6 +9,8 @@ Example:
 }
 */
 
+// This code has been written in another way as well in "string_projects/counter.rs"
+
 use std::collections::HashMap;
 use std::io::{self, BufRead};
 
