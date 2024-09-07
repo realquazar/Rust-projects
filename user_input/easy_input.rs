@@ -1,6 +1,8 @@
 /*
 This is a shorter way to read the string given by the userand perform the desired action.
-This method uses an external package called text_io which has a property called "read", this will help us to shorten out code
+This method uses an external package called text_io which has a property called "read", this will help us to shorten out code.
+
+For users using multiple inputs on the terminal and are also looking for a shorter way to read lines the text_io pakage is recommended
 */
 
 use text_io::read;
