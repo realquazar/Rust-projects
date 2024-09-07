@@ -1,3 +1,5 @@
+// In this code we accept 3 angles from the user and check if it forms a triangle
+
 use std::io;
 
 fn main() {
