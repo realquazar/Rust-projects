@@ -1,3 +1,8 @@
+/* 
+This program deals with how to check it is a palindrome number or palindrome string
+For more information on only palindrome numbers check "math_projects/palindrome.rs"
+*/
+
 use std::io;
 
 fn is_palindrome_string(s: &str,) -> bool {
