@@ -3,6 +3,11 @@ This is a shorter way to read the string given by the userand perform the desire
 This method uses an external package called text_io which has a property called "read", this will help us to shorten out code.
 
 For users using multiple inputs on the terminal and are also looking for a shorter way to read lines the text_io pakage is recommended
+
+NOTE: To use the text_io package you must include it in your cargo.toml file under dependencies
+
+[dependencies]
+text_io = "0.1.8"
 */
 
 use text_io::read;
